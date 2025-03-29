@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Textos do App-->
+
+    <string name="appTxtCalculadoraTitulo">Calculadora De IMC</string>
+    <string name="appBtnCalcular">Calcular</string>
+    <string name="appBtnLimpar">Limpar</string>
+    <string name="appBtnComecar">Comecar</string>
+    <string name="appTxtAltura">Digite sua altura:</string>
+    <string name="appTxtPeso">Digite seu peso:</string>
+    <string name="appBtnVoltar">Voltar</string>
+    <string name="appTxtDesnutricaoV">Você está com desnutrição grau 5, mas não fique triste, reforce sua alimentação com bastante frutas, legumes e carnes magras. .</string>
+    <string name="appTxtDesnutricaoIV">Você está com desnutrição grau 4, você está abaixo do peso, faça refeições balanceadas para ganhar peso de forma saudável.</string>
+    <string name="appTxtDesnutricaoIII">Você está com desnutrição grau 3, você está abaixo do peso, coma pelo menos 3 porções de frutas todos os dias e tome um café da manhã sudàvel.</string>
+    <string name="appTxtDesnutricaoII">Você está com desnutrição grau 2, você está um poco abaixo do peso, não se esqueça de fazer três refeições diárias.</string>
+    <string name="appTxtDesnutricaoI">Você está com desnutrição grau 1, você está quase lá, não esqueça das frutas e legumes e das boas fontes de proteína.</string>
+    <string name="appTxtNormal">Parabéns, você tem o IMC ideal.</string>
+    <string name="appTxtPreObesidade">Você está com pré-obesidade, reduza os imbutidos e industrializados e você ficará com o IMC ideal.</string>
+    <string name="appTxtObesidade1">Você está com obesidade grau 1, diminua a gordura e o açucar.</string>
+    <string name="appTxtObesidade2">Você está com obesidade grau 2, faça refeições mais leves e nutritivas</string>
+    <string name="appTxtObesidade3">Você está com obesidade grau 3, proucure a ajuda de especialistas como nutricionistas.</string>
+
+    <!--Cores do App-->
+    <color name="appFundo">#ffffff</color>
+    <color name="appTexto">#4d4d4d</color>
+    <color name="appTexto2">#00a859</color>
+    <color name="appBotao">#006341</color>>
+</resources>
